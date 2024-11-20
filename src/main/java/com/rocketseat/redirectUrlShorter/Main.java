@@ -1,4 +1,4 @@
-package com.rocketseat.createUrlShorter;
+package com.rocketseat.redirectUrlShorter;
 
 import com.amazonaws.services.lambda.runtime.Context;
 import com.amazonaws.services.lambda.runtime.RequestHandler;
